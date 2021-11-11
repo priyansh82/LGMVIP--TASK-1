@@ -11,10 +11,11 @@
 }
     
 .navbar-nav{
-    margin-left: 60%; 
+    margin-left: 50%; 
      font-weight: 700;
      color: black;
      font-size: 22px;
+     padding: 5px;
 }
     
     
